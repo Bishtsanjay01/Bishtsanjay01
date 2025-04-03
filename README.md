@@ -5,7 +5,8 @@
 ### 🛠️ Tech Stack  
 **Frontend:** HTML, CSS, JavaScript, React  
 **Backend:** Node.js, Express.js, MongoDB  
-**Tools:** Git, VS Code, Firebase  
+**Tools:** Git, VS Code, Firebase,cursor
+
 
 ### 🔥 Experience  
 - Freelancing projects for startups & businesses.  
