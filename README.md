@@ -1,16 +1,12 @@
-## Hi there 👋
+### 👋 Hey, I'm [Your Name]!  
+🚀 **Full-Stack Developer | Freelancer**  
+💻 Building interactive & scalable web apps.  
 
-<!--
-**Bishtsanjay01/Bishtsanjay01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, React  
+**Backend:** Node.js, Express.js, MongoDB  
+**Tools:** Git, VS Code, Firebase  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔥 Experience  
+- Freelancing projects for startups & businesses.  
+- Creating user-friendly, high-performance web applications.  
